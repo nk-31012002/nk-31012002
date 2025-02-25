@@ -31,6 +31,6 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nk-31012002&show_icons=true&locale=en&layout=compact" alt="nk-31012002" /></p>
-
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nk-31012002&" alt="nk-31012002" /></p>
+
+
