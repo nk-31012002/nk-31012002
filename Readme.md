@@ -2,8 +2,12 @@
 <h3 align="center">Developer and AI enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nk-31012002&label=Profile%20views&color=0e75b6&style=flat" alt="nk-31012002" /> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=nk-31012002&theme=nord&row=1&column=5" alt="nk-31012002" />
+  </a> 
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nk-31012002" alt="nk-31012002" /></a> </p>
 
 - 🖋️ I have learned to build end-to-end projects via [this project](https://n-ai-oodk.vercel.app/sign-in?redirect_url=https%3A%2F%2Fn-ai-oodk.vercel.app%2F).
   
