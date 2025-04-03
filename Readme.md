@@ -1,7 +1,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nk-31012002&label=Profile%20views&color=0e75b6&style=flat" alt="nk-31012002" /> </p>
 # 💫 About Me:
-🙋‍♂️Hey, I'm Nagendra. I’m a software engineer who enjoys building full-stack applications, working on AI projects, and designing scalable systems. I was a finalist in Walmart’s SparkPlug (Top 15,000+), participated in Flipkart GRiD 6.0. I like solving problems and creating useful solutions.<br><br>🌱 I’m currently learning JAVA SPRINGBOOT and DATABASE OPTIMIZATION techniques.<br>👯 I'm passionate about Full-Stack Dev, Real-Time Web App, Competitive Coding & DSA.<br>📫 You can contact me at nkhappytoconnect@gmail.com.
+🙋‍♂️Hey, I'm Nagendra. I’m a software engineer who enjoys building full-stack applications, working on AI projects, and designing scalable systems. I was a finalist in Walmart’s SparkPlug (Top 15,000+), participated in Flipkart GRiD 6.0. I like solving problems and creating useful solutions.
+
+<br>🌱 I’m currently learning JAVA SPRINGBOOT and DATABASE OPTIMIZATION techniques.
+<br>👯 I'm passionate about Full-Stack Dev, Real-Time Web App, Competitive Coding & DSA.
+<br>📫 You can contact me at nkhappytoconnect@gmail.com.
 
 
 ## 🌐 Socials:
