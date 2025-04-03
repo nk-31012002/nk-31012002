@@ -1,6 +1,13 @@
 # 💫 About Me:
 
-🙋‍♂️Hey, I'm Nagendra. I’m a software engineer who enjoys building full-stack applications, working on AI projects, and designing scalable systems. I was a finalist in Walmart’s SparkPlug (Top 15,000+), participated in Flipkart GRiD 6.0. I like solving problems and creating useful solutions.
+
+<a href="https://pronouns.vercel.app" title="Garvit Chittora">
+  <img src="https://pronouns.vercel.app/he/him?gradient=grapefruit%20sunset" width="256" height="64" alt="My pronouns are he/him">
+</a>
+
+
+🙋‍♂️Hey there, I'm Nagendra — a full-stack developer who loves turning ideas into real, impactful tech. I enjoy working with modern web stacks and building cool projects that solve real problems.
+
 
 <br>🌱 I’m currently learning JAVA SPRINGBOOT and DATABASE OPTIMIZATION techniques.
 <br>👯 I'm passionate about Full-Stack Dev, Real-Time Web App, Competitive Coding & DSA.
