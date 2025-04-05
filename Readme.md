@@ -9,7 +9,6 @@
 🙋‍♂️Hey there, I'm Nagendra, a driven developer.
 
 <br>🌱 I’m currently learning JAVA SPRINGBOOT and DATABASE OPTIMIZATION techniques.
-<br>👯 I'm passionate about Full-Stack Dev, Real-Time Web App, Competitive Coding & DSA.
 <br>📫 You can contact me at nkhappytoconnect@gmail.com.
 
 
