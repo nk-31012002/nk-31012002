@@ -8,7 +8,7 @@
 
 🙋‍♂️Hey there, I'm Nagendra, a driven developer.
 
-<br>🤝 Contributing to Google Summer of Code 2025 (GSoC'25)
+<br>🤝 Actively contributing to Google Summer of Code 2025 (GSoC'25)
 <br>🌱 Learning JAVA SPRINGBOOT and DATABASE OPTIMIZATION techniques
 <br>📫 You can contact me at nkhappytoconnect@gmail.com
 
