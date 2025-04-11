@@ -10,7 +10,7 @@
 
 <br>🤝 Actively contributing to Google Summer of Code 2025 (GSoC'25)
 <br>🌱 Learning JAVA SPRINGBOOT and DATABASE OPTIMIZATION techniques
-<br>📫 Reach me at nkhappytoconnect@gmail.com
+<br>📫 You can reach me at nkhappytoconnect@gmail.com
 
 
 ## 🌐 Socials:
