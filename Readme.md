@@ -9,7 +9,7 @@
 🙋‍♂️Hey there, I'm Nagendra, a driven developer.
 
 <br>🤝 Actively contributing to Google Summer of Code 2025 (GSoC'25)
-<br>🌱 Learning JAVA SPRINGBOOT and DATABASE OPTIMIZATION techniques
+<br>✒️ Learning JAVA SPRINGBOOT and DATABASE OPTIMIZATION techniques
 <br>🏗️ Currently working on this project -> [OpenLMS](https://github.com/nk-31012002/OpenLMS)
 <br>📫 Contact me at ngs.kumar.31@gmail.com
 
