@@ -10,7 +10,7 @@
 
 <br>✒️ Learning JAVA SPRINGBOOT.
 <br>🏗️ Currently working on this project -> [OpenLMS](https://github.com/nk-31012002/OpenLMS)
-<br>📫 Contact me at ngs.kumar.31@gmail.com
+<br>📫 Contact me at nkhappytoconnect@gmail.com
 
 
 ## 🌐 Socials:
