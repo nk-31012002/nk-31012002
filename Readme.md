@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ✨ About Me:
 
 
 <a href="https://pronouns.vercel.app" title="Garvit Chittora">
