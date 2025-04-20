@@ -14,7 +14,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nk_31017) [![LinkedIn](https://img.shields.io/badge/LinedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nag1) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/xaviour) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nk_31017) [![LinkedIn](https://img.shields.io/badge/LinedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/nag1](https://www.linkedin.com/in/nagendra31/)) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/xaviour) 
 
 ### 💻 Tech Stack:
 # 💻 Tech Stack:
