@@ -6,7 +6,7 @@
 </a>
 
 
-🙋‍♂️Hey there, I'm Nagendra, a driven developer.
+🙋‍♂️Hey there, I'm Nagendra.
 
 <br>✒️ Learning JAVA SPRINGBOOT.
 <br>🏗️ Currently working on this project -> [OpenLMS](https://github.com/nk-31012002/OpenLMS)
