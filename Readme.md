@@ -8,8 +8,8 @@
 
 🙋‍♂️Hey there, I'm Nagendra.
 
-<br>✒️ Learning JAVA SPRINGBOOT.
-<br>🏗️ Currently working on this project -> [OpenLMS](https://github.com/nk-31012002/OpenLMS)
+<br>✒️ Currently working as an SDE intern at Amnic Technologies Private Limited.
+<br>✒️ Learning Java Spring Boot.
 <br>📫 Contact me at nkhappytoconnect@gmail.com
 
 
