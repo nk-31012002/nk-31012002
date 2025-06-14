@@ -9,7 +9,7 @@
 🙋‍♂️Hey there, I'm Nagendra.
 
 <br>✒️ Currently working as an SDE intern at Amnic Technologies Private Limited.
-<br>⏳ Learning Java, Spring Boot, and GoLang.
+<br>⏳ Learning ![C](https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white).
 <br>📫 Contact me at nkhappytoconnect@gmail.com
 
 
