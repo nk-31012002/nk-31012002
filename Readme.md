@@ -1,7 +1,7 @@
 ## ✨ About Me:
 
 
-<a href="https://pronouns.vercel.app" title="Garvit Chittora">
+<a href="https://pronouns.vercel.app" title="Nagendra Kumar">
   <img src="https://pronouns.vercel.app/he/him?gradient=grapefruit%20sunset" width="256" height="64" alt="My pronouns are he/him">
 </a>
 
@@ -9,7 +9,7 @@
 🙋‍♂️Hey there, I'm Nagendra.
 
 <br>✒️ Currently working as an SDE intern at Amnic Technologies Private Limited.
-<br>⏳ Learning ![C](https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white).
+<br>⏳ Learning Go (<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="19" height="19"/>).
 <br>📫 Contact me at nkhappytoconnect@gmail.com
 
 
@@ -23,7 +23,13 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?logo=sqlite&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?logo=Prisma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) ![Go](https://img.shields.io/badge/go-00ADD8.svg?logo=go&logoColor=white) ![AWS](https://img.shields.io/badge/aws-232F3E.svg?logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-0078D4.svg?logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/gcp-4285F4.svg?logo=googlecloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/k8s-326CE5.svg?logo=kubernetes&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-F46800.svg?logo=grafana&logoColor=white)
+
+
 
 ## 📊 GitHub Stats: <p align="left"> <img src="https://komarev.com/ghpvc/?username=nk-31012002&label=Profile%20views&color=0e75b6&style=flat" alt="nk-31012002" /> </p>
 <p align="center">
