@@ -21,7 +21,7 @@ Indian Institute of Information Technology, Allahabad
 
 ---
 
-## Projects
+## Featured Projects
 
 ### WorkAtom
 
