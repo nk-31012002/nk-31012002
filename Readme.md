@@ -44,7 +44,7 @@ Developers and job seekers who want to automatically tailor project portfolios a
 
 **Links**
 - GitHub: https://github.com/nk-31012002/JobReach.AI
-- Live: [live-demo-link](https://jobreachai-bbvvgbq5e9f4zhwc4xuoes.streamlit.app/)
+- Live: https://jobreachai-bbvvgbq5e9f4zhwc4xuoes.streamlit.app/
 
 ---
 
@@ -57,7 +57,7 @@ Students, interview preparation groups, and developers who want to collaborate o
 
 **Links**
 - GitHub: https://github.com/nk-31012002/CODECRAFT
-- Live: [live-demo-link](https://codecraft-nk.onrender.com/)
+- Live: https://codecraft-nk.onrender.com/
 
 ---
 
