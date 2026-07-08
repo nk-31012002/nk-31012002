@@ -3,12 +3,13 @@
 
 Software Engineer | Backend Systems | Cloud & Distributed Systems
 
+
+
 ---
 
 ## About
 
-I’m a software engineer interested in building scalable backend systems, distributed services, and developer tools.  
-My focus areas include system design, cloud platforms, and high-performance web infrastructure.
+I'm a Software Engineer focused on scalable backend systems, distributed services, and developer tools, with growing interest in agentic AI and LLM-powered systems. My work spans system design, cloud-native architecture (AWS, Docker, Kubernetes), and high-performance API infrastructure.
 
 ---
 
@@ -21,6 +22,18 @@ Indian Institute of Information Technology, Allahabad
 ---
 
 ## Projects
+
+### WorkAtom
+
+AI-powered code topology decomposition engine that ingests complex, tightly coupled repositories and breaks monolithic functions into isolated, single-responsibility Atomic Work Units.
+
+**Useful for:**  
+Engineering teams and developers who want to decompose large, entangled codebases into clean work units, surfacing parameter-level data dependencies and side effects before refactoring. Also valuable for onboarding new team members, helping them quickly understand unfamiliar, large-scale codebases without getting lost in tightly coupled logic.
+
+**Links**
+- GitHub: https://github.com/nk-31012002/WorkAtom
+
+---
 
 ### JobReach.AI
 
@@ -49,25 +62,27 @@ Students, interview preparation groups, and developers who want to collaborate o
 ---
 
 ## Skills
-
 ### Languages
-C, C++, Java, Python, Go, JavaScript, SQL
+C, C++, Java, Python, Go, SQL
 
 ### Frameworks
 Spring Boot, Node.js, React, Next.js, LangChain, Apache Spark, JUnit
 
 ### Cloud & DevOps
-AWS, Docker, Kubernetes, Kafka, Jenkins
+AWS, Docker, Kubernetes, Kafka, Jenkins, Git, Grafana
 
 ### Databases
 MySQL, MongoDB, PostgreSQL, Redis
 
+### Tools & Protocols
+REST API, OAuth 2.0, Socket.io
+
 ### Concepts
+System Design
 Data Structures & Algorithms  
 Object-Oriented Programming (OOP)  
 Operating Systems  
-DBMS  
-System Design
+DBMS
 
 ---
 
